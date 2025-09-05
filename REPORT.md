@@ -1,7 +1,6 @@
 # CS74 Final Project – Amazon Review Analysis
 
-**Author:** Max Fortner  
-**Dartmouth ID:** F006TYR
+**Author:** Max Fortner
 
 ## Background
 
