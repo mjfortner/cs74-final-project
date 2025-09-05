@@ -278,7 +278,7 @@ We applied K-Means on the Test.csv set (since its ratings are not revealed). We 
 
 ## Author
 
-Max Fortner - CS74 Final Project
+Max Fortner - CS74 Final Project - Dartmouth College
 
 ## License
 
